@@ -1,2 +1,2 @@
 # Baymax
-Dsl based library for building assistant bots in JVM languages
+Dsl based container deployement and provisioning tool
