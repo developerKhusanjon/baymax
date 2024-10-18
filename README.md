@@ -1,2 +1,2 @@
 # Baymax
-Dsl based container deployement and provisioning tool
+Simple assistant bot with limited answers
